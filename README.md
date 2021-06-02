@@ -5,5 +5,11 @@ _프로토 타입_
 
 몬스터 패턴, 배경, 조명
 
+몬스터 패턴
+
+
+
+
 게임소개 유튜브
 https://www.youtube.com/watch?v=7xKQijOvR94
+

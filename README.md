@@ -1,8 +1,6 @@
 # _VR_CG-Project
 VR유니티 게임
 
-_프로토 타입_
-
 몬스터 패턴, 배경, 조명
 
 몬스터 패턴
@@ -19,3 +17,10 @@ _프로토 타입_
 게임소개 유튜브
 https://www.youtube.com/watch?v=7xKQijOvR94
 
+소스코드
+
+final3 -> Assets -> Scripts -> Monster
+
+Monster - 몬스터들의 공통 조상이 되는 클래스
+
+ItemDrop - 아이템 드랍 확률과 품목을 인스펙터 창에서 정하도록 하였음
